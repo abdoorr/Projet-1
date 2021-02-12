@@ -1,0 +1,51 @@
+body {
+    padding: 0;
+    margin: auto;
+    font-family: 'Hammersmith One', sans-serif;
+    background-image: url(assets/mur-beton_1154-642.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.mon_div {
+    text-align: center;
+    /* background-color: rgb(216, 216, 216); */
+    box-shadow: rgba(17, 17, 26, 0.1) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 48px;
+}
+
+#mon-h1 {
+    text-decoration: underline;
+}
+
+.my-color {
+    color: blue;
+}
+
+.boldd {
+    font-weight: bold;
+}
+
+.back {
+    background-color: brown;
+    padding: 20px;
+}
+
+.happy {
+    border: 2px solid tomato;
+}
+
+table, th, td {
+    border: 3px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+.ddfh {
+    float: right;
+}
